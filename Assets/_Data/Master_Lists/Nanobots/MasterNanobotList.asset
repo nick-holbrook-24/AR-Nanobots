@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61fa862eaf21945439ec2c3c2db2fb85, type: 3}
+  m_Name: MasterNanobotList
+  m_EditorClassIdentifier: 
+  nanobots:
+  - {fileID: 11400000, guid: b0aacf7c39eb0b442ab9928299b197de, type: 2}
+  - {fileID: 11400000, guid: 0bd55e71fe867bc4bb89cbfe10bd060a, type: 2}
+  - {fileID: 11400000, guid: 62e193dde87b24b4abfd9c35ff6d6c4f, type: 2}
+  - {fileID: 11400000, guid: 947a594dbf97a89479ad66619675a659, type: 2}
+  - {fileID: 11400000, guid: 9fb2a6d5d5e14644c8c8f6d5c06fb28a, type: 2}
+  - {fileID: 11400000, guid: 138efb93850918144ac32f3653d2e8c2, type: 2}

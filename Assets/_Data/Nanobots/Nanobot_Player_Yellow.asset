@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49ba5c13ceacbe74a83a18b0d40cac43, type: 3}
+  m_Name: Nanobot_Player_Yellow
+  m_EditorClassIdentifier: 
+  botName: Yellow
+  prefab: {fileID: 6534654995965255386, guid: 7ca2495902f4d2e4ca050fa7a2f83e03, type: 3}
+  material: {fileID: 2100000, guid: 3c0bf6c30aec5f74bbea9ca10068db9b, type: 2}
+  scale: {x: 0.24, y: 0.24, z: 0.24}
+  energy:
+    current: 0
+    max: 90
+  cleanliness:
+    current: 0
+    max: 110
+  abilities:
+  - id: 1
+    level: 2
